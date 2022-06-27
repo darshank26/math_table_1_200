@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1011504990556",
+    "project_id": "math-table-1-to-200",
+    "storage_bucket": "math-table-1-to-200.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1011504990556:android:eb7c8d9f9831da503d1999",
+        "android_client_info": {
+          "package_name": "com.darshankomu.mathtable.math_table_1_200"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1011504990556-3cd5ohei3ie0jtmnthgt2vcu6mnle30d.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBfquGa3p_qb4nncY-Z9FcQL2VdShKtYLs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1011504990556-3cd5ohei3ie0jtmnthgt2vcu6mnle30d.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
